@@ -1,0 +1,7 @@
+HREF="./slides/PA - intro python - bases algorithmiques.pdf"
+HREF="./slides/PB - programmation modulaire avec python.pdf"
+HREF="./slides/PC - collections sous python.pdf"
+HREF="./slides/PD - classes sous python.pdf"
+HREF="./slides/PE - fichiers sous python.pdf"
+HREF="./slides/PG - vecteurs avec numpy.pdf"
+HREF="./slides/PH - matrices avec numpy.pdf"
